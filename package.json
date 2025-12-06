@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "pnpm -r -F !exmaples build",
-    "publish": "changeset publish",
-    "gen-changeset": "changeset version"
+    "build": "pnpm -r -F !exmaples build"
   },
   "keywords": [],
   "author": "",
