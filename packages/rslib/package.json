@@ -12,6 +12,10 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "registry": "http://localhost:4873",
+    "access": "public"
+  },
   "scripts": {
     "build": "rslib build",
     "dev": "rslib build --watch"
