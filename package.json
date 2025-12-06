@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "pnpm -r -F !exmaple build"
+    "build": "pnpm -r -F !exmaples build",
+    "release": "changeset version && changeset publish"
   },
   "keywords": [],
   "author": "",
