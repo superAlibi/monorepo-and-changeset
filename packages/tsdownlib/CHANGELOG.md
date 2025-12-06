@@ -1,5 +1,11 @@
 # lib2
 
+## 0.3.0
+
+### Minor Changes
+
+- 3f3a221: lib2 依赖 lib1
+
 ## 0.2.0
 
 ### Minor Changes
