@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "pnpm -r -F !exmaples build",
-    "release": "changeset version && changeset publish"
+    "publish": "changeset publish",
+    "gen-changeset": "changeset version"
   },
   "keywords": [],
   "author": "",
