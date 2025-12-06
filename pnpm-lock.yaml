@@ -127,6 +127,9 @@ importers:
       bumpp:
         specifier: ^10.3.2
         version: 10.3.2
+      lib1:
+        specifier: workspace:*
+        version: link:../rslib
       tsdown:
         specifier: ^0.17.0
         version: 0.17.0(typescript@5.9.3)
